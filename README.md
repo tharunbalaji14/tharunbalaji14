@@ -45,10 +45,9 @@ About me
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** C, HTML, CSS, JavaScript[cite: 5, 6]
+* **Languages:** C, Python[cite: 5, 6]
 * **Version Control & Tools:** Git, GitHub, VS Code[cite: 6]
-* **Currently Learning:** Data Structures & Algorithms, Advanced Web Development, and Git workflows
-
+* **Currently Learning:** Data Structures & Algorithms, Python Scripting, and Git workflows[cite: 6]
 
 
 <!--
