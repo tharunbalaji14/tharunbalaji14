@@ -18,6 +18,30 @@ About me
 - Practicing coding problems
 - Building beginner-friendly projects
 
+<div align="center">
+
+  ### 📊 My GitHub Stats
+
+  <!-- Main GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?tharunbalaji14=YOUR_GITHUB_tharunbalaji14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+
+  <br />
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?tharunbalaji14=YOUR_GITHUB_tharunbalaji14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+
+  <br />
+
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+</div>
 
 
 
