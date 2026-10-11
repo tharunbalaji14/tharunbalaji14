@@ -1,6 +1,8 @@
 ## Hi I,m Tharun 👋
 🎓 First-Year B.E. Electronics and Communication Engineering student at St. Joseph's College of Engineering.
 
+About me
+
 💻 Currently learning C Programming and Python.
 
 🌱 Interested in programming, electronics, and technology.
@@ -15,6 +17,8 @@
 - Learning programming fundamentals
 - Practicing coding problems
 - Building beginner-friendly projects
+
+
 
 
 <!--
