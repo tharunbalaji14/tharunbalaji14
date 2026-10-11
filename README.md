@@ -24,21 +24,21 @@ About me
 
   <!-- Main GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?tharunbalaji14=YOUR_GITHUB_tharunbalaji14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tharunbalaji14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
 
   <br />
 
   <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?tharunbalaji14=YOUR_GITHUB_tharunbalaji14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunbalaji14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 
   <br />
 
   <!-- GitHub Streak Card -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunbalaji14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 
 </div>
